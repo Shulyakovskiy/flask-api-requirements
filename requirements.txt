@@ -4,7 +4,7 @@ Flask==1.1.1
 Flask-Bcrypt==0.7.1
 gunicorn==20.0.4
 SQLAlchemy==1.3.15
-PyJWT==1.7.1
+PyJWT==2.0.0
 Flask-jwt-extended==3.24.1
 Flask-Cors==3.0.8
 Flask-Migrate==2.5.3

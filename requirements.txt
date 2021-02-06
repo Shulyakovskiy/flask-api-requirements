@@ -18,11 +18,11 @@ python-dotenv==0.12.0
 alembic==1.4.2
 python-dotenv==0.12.0
 black==19.10b0
-pika==1.1.0
+pika==1.2.0
 celery==4.4.2
 sentry-sdk==0.14.3
 flask-rabbitmq==0.0.9
 pyrabbit==1.1.0
-pika==1.1.0
+pika==1.2.0
 werkzeug==1.0.0
 flask-limiter==1.2.1

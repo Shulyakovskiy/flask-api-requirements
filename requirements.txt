@@ -13,9 +13,9 @@ Flask-Script==2.0.6
 Flask-SocketIO==4.2.1
 Flask-SQLAlchemy==2.4.1
 Flask-Testing==0.8.0
-alembic==1.4.2
+alembic==1.7.2
 python-dotenv==0.12.0
-alembic==1.4.2
+alembic==1.7.2
 python-dotenv==0.12.0
 black==19.10b0
 pika==1.1.0

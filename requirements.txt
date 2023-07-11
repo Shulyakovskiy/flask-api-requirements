@@ -17,7 +17,7 @@ alembic==1.4.2
 python-dotenv==0.12.0
 alembic==1.4.2
 python-dotenv==0.12.0
-black==19.10b0
+black==23.7.0
 pika==1.1.0
 celery==4.4.2
 sentry-sdk==0.14.3
